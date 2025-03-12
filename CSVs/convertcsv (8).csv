@@ -1,0 +1,25 @@
+games/url,games/pgn,games/time_control,games/end_time,games/rated,games/tcn,games/uuid,games/initial_setup,games/fen,games/time_class,games/rules,games/white/rating,games/white/result,games/white/@id,games/white/username,games/white/uuid,games/black/rating,games/black/result,games/black/@id,games/black/username,games/black/uuid,games/eco
+https://www.chess.com/game/live/4812093846,"[Event ""Live Chess""]
+[Site ""Chess.com""]
+[Date ""2020.05.05""]
+[Round ""-""]
+[White ""the_worm77""]
+[Black ""EliteBarbs13""]
+[Result ""0-1""]
+[CurrentPosition ""3r1rk1/ppp2ppp/2n2n2/8/6b1/P1B2N2/1PP1qPPP/R1Q2RK1 w - -""]
+[Timezone ""UTC""]
+[ECO ""C47""]
+[ECOUrl ""https://www.chess.com/openings/Four-Knights-Game""]
+[UTCDate ""2020.05.05""]
+[UTCTime ""00:40:07""]
+[WhiteElo ""963""]
+[BlackElo ""1109""]
+[TimeControl ""180+2""]
+[Termination ""EliteBarbs13 won by resignation""]
+[StartTime ""00:40:07""]
+[EndDate ""2020.05.05""]
+[EndTime ""00:42:00""]
+[Link ""https://www.chess.com/game/live/4812093846""]
+
+1. e4 {[%clk 0:03:01.6]} 1... e5 {[%clk 0:03:00.9]} 2. Nf3 {[%clk 0:03:02.9]} 2... Nc6 {[%clk 0:03:02.1]} 3. Nc3 {[%clk 0:03:04.3]} 3... Nf6 {[%clk 0:03:02.8]} 4. d3 {[%clk 0:03:05.6]} 4... Bb4 {[%clk 0:03:00.4]} 5. Bd2 {[%clk 0:03:04.4]} 5... Bxc3 {[%clk 0:03:00.7]} 6. Bxc3 {[%clk 0:03:05.3]} 6... d6 {[%clk 0:03:00.3]} 7. Be2 {[%clk 0:03:06.1]} 7... O-O {[%clk 0:03:00.5]} 8. O-O {[%clk 0:03:07.1]} 8... d5 {[%clk 0:02:57.2]} 9. exd5 {[%clk 0:03:03.6]} 9... Qxd5 {[%clk 0:02:56.4]} 10. a3 {[%clk 0:02:53]} 10... Bg4 {[%clk 0:02:56.4]} 11. Bd2 {[%clk 0:02:47.7]} 11... e4 {[%clk 0:02:52.3]} 12. dxe4 {[%clk 0:02:47.8]} 12... Qxe4 {[%clk 0:02:53]} 13. Bc3 {[%clk 0:02:39.6]} 13... Rad8 {[%clk 0:02:47.9]} 14. Qc1 {[%clk 0:02:28.7]} 14... Qxe2 {[%clk 0:02:46.2]} 0-1
+",180+2,1588639320,true,mC0Kgv5Qbs!Tlt9zclzslsZRfm8!egRJCJ7Jiq6EslKCtCJCls47dcCm,f4f91910-8e68-11ea-8133-eb3d40010001,,3r1rk1/ppp2ppp/2n2n2/8/6b1/P1B2N2/1PP1qPPP/R1Q2RK1 w - -,blitz,chess,963,resigned,https://api.chess.com/pub/player/the_worm77,the_worm77,39798d00-9125-11e4-8020-000000000000,1109,win,https://api.chess.com/pub/player/elitebarbs13,EliteBarbs13,d35dcd9c-9987-11e7-802c-000000000000,https://www.chess.com/openings/Four-Knights-Game

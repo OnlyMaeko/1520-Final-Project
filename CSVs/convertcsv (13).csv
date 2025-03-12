@@ -1,0 +1,25 @@
+games/url,games/pgn,games/time_control,games/end_time,games/rated,games/tcn,games/uuid,games/initial_setup,games/fen,games/start_time,games/time_class,games/rules,games/white/rating,games/white/result,games/white/@id,games/white/username,games/white/uuid,games/black/rating,games/black/result,games/black/@id,games/black/username,games/black/uuid,games/eco
+https://www.chess.com/game/daily/303295642,"[Event ""Let's Play!""]
+[Site ""Chess.com""]
+[Date ""2021.01.18""]
+[Round ""-""]
+[White ""LiamDemko""]
+[Black ""EliteBarbs13""]
+[Result ""0-1""]
+[CurrentPosition ""6k1/5ppp/p7/1p6/1P6/5PP1/7P/3rB2K w - - 7 33""]
+[Timezone ""UTC""]
+[ECO ""C77""]
+[ECOUrl ""https://www.chess.com/openings/Ruy-Lopez-Opening-Morphy-Defense-Tarrasch-Variation-5...b5-6.Bb3""]
+[UTCDate ""2021.01.18""]
+[UTCTime ""17:12:10""]
+[WhiteElo ""400""]
+[BlackElo ""1292""]
+[TimeControl ""1/86400""]
+[Termination ""EliteBarbs13 won by resignation""]
+[StartTime ""17:12:10""]
+[EndDate ""2021.01.21""]
+[EndTime ""20:13:59""]
+[Link ""https://www.chess.com/game/daily/303295642""]
+
+1. e4 {[%clk 0:05:04.6]} 1... e5 {[%clk 0:00:58.3]} 2. Nf3 {[%clk 0:02:20.4]} 2... Nc6 {[%clk 0:08:08.8]} 3. Bb5 {[%clk 0:00:22.7]} 3... a6 {[%clk 0:11:48.1]} 4. Ba4 {[%clk 0:00:50.7]} 4... b5 {[%clk 0:00:01.3]} 5. Bb3 {[%clk 0:00:01.7]} 5... Nf6 {[%clk 0:26:43.7]} 6. Nc3 {[%clk 0:00:21]} 6... Bb7 {[%clk 2:14:43.9]} 7. d4 {[%clk 0:00:15.3]} 7... Bb4 {[%clk 0:14:14.2]} 8. d5 {[%clk 0:00:06.2]} 8... Bxc3+ {[%clk 0:10:59.2]} 9. bxc3 {[%clk 0:00:01.8]} 9... Nxe4 {[%clk 0:00:27.5]} 10. dxc6 {[%clk 0:00:06.6]} 10... Bxc6 {[%clk 0:00:04.9]} 11. Nxe5 {[%clk 0:00:01.7]} 11... Nxc3 {[%clk 0:00:04.4]} 12. Nxc6 {[%clk 0:00:05.6]} 12... dxc6 {[%clk 0:56:18]} 13. Qxd8+ {[%clk 0:10:01.1]} 13... Rxd8 {[%clk 0:48:42.7]} 14. Bf4 {[%clk 0:00:35.3]} 14... O-O {[%clk 0:00:07.2]} 15. Bxc7 {[%clk 0:00:05.3]} 15... Rfe8+ {[%clk 0:00:01.2]} 16. Kf1 {[%clk 0:19:00.2]} 16... Rd2 {[%clk 0:23:54.6]} 17. Re1 {[%clk 0:45:55.8]} 17... Rxe1+ {[%clk 0:07:20.1]} 18. Kxe1 {[%clk 0:00:15.7]} 18... Re2+ {[%clk 0:00:02.9]} 19. Kf1 {[%clk 0:01:47.7]} 19... Rd2 {[%clk 0:00:12.4]} 20. g3 {[%clk 0:06:11.9]} 20... Ne4 {[%clk 0:00:58.7]} 21. Bb6 {[%clk 0:00:18.6]} 21... c5 {[%clk 0:00:55.8]} 22. f3 {[%clk 0:00:02]} 22... Rd1+ {[%clk 0:00:06.4]} 23. Kg2 {[%clk 0:00:02.8]} 23... Rd2+ {[%clk 0:00:02.3]} 24. Kh3 {[%clk 0:00:15.1]} 24... Nf2+ {[%clk 0:00:02.4]} 25. Kg2 {[%clk 0:00:06.9]} 25... Nxh1+ {[%clk 0:00:02.8]} 26. Kxh1 {[%clk 0:00:01.5]} 26... c4 {[%clk 0:00:00.6]} 27. Be3 {[%clk 0:00:05.1]} 27... cxb3 {[%clk 0:00:03.9]} 28. axb3 {[%clk 0:00:05.8]} 28... Rxc2 {[%clk 0:00:32]} 29. b4 {[%clk 0:00:05.3]} 29... Rc4 {[%clk 0:00:03.4]} 30. Bd2 {[%clk 0:00:53.4]} 30... Rd4 {[%clk 0:04:57.3]} 31. Bc3 {[%clk 0:01:06.2]} 31... Rd3 {[%clk 0:00:03.3]} 32. Be1 {[%clk 0:00:03.2]} 32... Rd1 {[%clk 0:00:28.3]} 0-1
+",1/86400,1611260039,false,mC0Kgv5QfHWOHyXHyr!Tbs6XlB9zBJzsjsTCJQXQvKCsKQZQd747cD8?DY98ef7lae8efelmefmlowsCYPQInvldfodloxCnxonhohIAPuArirlkrzkAulABlsBtsetd,4d205b72-59b0-11eb-848b-4e980e01000b,,6k1/5ppp/p7/1p6/1P6/5PP1/7P/3rB2K w - - 7 33,1610989930,daily,chess,400,resigned,https://api.chess.com/pub/player/liamdemko,LiamDemko,c6bd6722-b14a-11ea-b494-c1e7c8930e46,1292,win,https://api.chess.com/pub/player/elitebarbs13,EliteBarbs13,d35dcd9c-9987-11e7-802c-000000000000,https://www.chess.com/openings/Ruy-Lopez-Opening-Morphy-Defense-Tarrasch-Variation-5...b5-6.Bb3

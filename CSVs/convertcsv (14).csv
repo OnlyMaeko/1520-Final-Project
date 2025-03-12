@@ -1,0 +1,25 @@
+games/url,games/pgn,games/time_control,games/end_time,games/rated,games/tcn,games/uuid,games/initial_setup,games/fen,games/time_class,games/rules,games/white/rating,games/white/result,games/white/@id,games/white/username,games/white/uuid,games/black/rating,games/black/result,games/black/@id,games/black/username,games/black/uuid,games/eco
+https://www.chess.com/game/live/6475773040,"[Event ""Live Chess""]
+[Site ""Chess.com""]
+[Date ""2021.02.07""]
+[Round ""-""]
+[White ""EliteBarbs13""]
+[Black ""amerigo4""]
+[Result ""1-0""]
+[CurrentPosition ""1R2k2r/p4ppp/2b5/3Np3/4P3/b3B3/P4PPP/3Q1RK1 b kq -""]
+[Timezone ""UTC""]
+[ECO ""C53""]
+[ECOUrl ""https://www.chess.com/openings/Giuoco-Piano-Game-Main-Line-La-Bourdonnais-Variation""]
+[UTCDate ""2021.02.07""]
+[UTCTime ""02:42:34""]
+[WhiteElo ""1223""]
+[BlackElo ""876""]
+[TimeControl ""600""]
+[Termination ""EliteBarbs13 won by resignation""]
+[StartTime ""02:42:34""]
+[EndDate ""2021.02.07""]
+[EndTime ""02:47:44""]
+[Link ""https://www.chess.com/game/live/6475773040""]
+
+1. e4 {[%clk 0:10:00]} 1... e5 {[%clk 0:09:59.8]} 2. Nf3 {[%clk 0:09:58.9]} 2... Nc6 {[%clk 0:09:58.2]} 3. Bc4 {[%clk 0:09:57.5]} 3... Bc5 {[%clk 0:09:56.3]} 4. c3 {[%clk 0:09:56.8]} 4... d6 {[%clk 0:09:54.3]} 5. d4 {[%clk 0:09:53.2]} 5... exd4 {[%clk 0:09:50.2]} 6. cxd4 {[%clk 0:09:52.5]} 6... Bb6 {[%clk 0:09:44.8]} 7. d5 {[%clk 0:09:46.4]} 7... Ne5 {[%clk 0:09:34.5]} 8. Bb5+ {[%clk 0:08:57]} 8... c6 {[%clk 0:09:22.9]} 9. dxc6 {[%clk 0:08:49.6]} 9... bxc6 {[%clk 0:09:19.8]} 10. Nxe5 {[%clk 0:08:38.9]} 10... dxe5 {[%clk 0:09:14.6]} 11. Bxc6+ {[%clk 0:08:30.7]} 11... Bd7 {[%clk 0:09:13.4]} 12. Bxa8 {[%clk 0:08:21.8]} 12... Qb8 {[%clk 0:09:12.6]} 13. Bd5 {[%clk 0:07:52.8]} 13... Nf6 {[%clk 0:08:59.7]} 14. Nc3 {[%clk 0:07:45]} 14... Nxd5 {[%clk 0:08:51]} 15. Nxd5 {[%clk 0:07:43.7]} 15... Bc6 {[%clk 0:08:47.1]} 16. O-O {[%clk 0:07:19.1]} 16... Bd4 {[%clk 0:08:39.5]} 17. Be3 {[%clk 0:06:42.5]} 17... Bxb2 {[%clk 0:08:32.7]} 18. Rb1 {[%clk 0:06:41.4]} 18... Ba3 {[%clk 0:08:26.5]} 19. Rxb8+ {[%clk 0:06:39]} 1-0
+",600,1612666064,false,mC0Kgv5QfA9IksZRlBKBsBIPBJQKAHYQJQXQvKRKHQ6ZQ4754J!TbsTJsJZQegPBcuBjabjqb5,1f0ccdcb-68ee-11eb-a6a9-0069e4010001,,1R2k2r/p4ppp/2b5/3Np3/4P3/b3B3/P4PPP/3Q1RK1 b kq -,rapid,chess,1223,win,https://api.chess.com/pub/player/elitebarbs13,EliteBarbs13,d35dcd9c-9987-11e7-802c-000000000000,876,resigned,https://api.chess.com/pub/player/amerigo4,amerigo4,e71fa444-66b2-11eb-a9e8-bf7baa0ab5ea,https://www.chess.com/openings/Giuoco-Piano-Game-Main-Line-La-Bourdonnais-Variation

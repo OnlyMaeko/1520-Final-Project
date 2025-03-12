@@ -1,0 +1,25 @@
+games/url,games/pgn,games/time_control,games/end_time,games/rated,games/tcn,games/uuid,games/initial_setup,games/fen,games/time_class,games/rules,games/white/rating,games/white/result,games/white/@id,games/white/username,games/white/uuid,games/black/rating,games/black/result,games/black/@id,games/black/username,games/black/uuid,games/eco
+https://www.chess.com/game/live/5537635675,"[Event ""Live Chess""]
+[Site ""Chess.com""]
+[Date ""2020.10.04""]
+[Round ""-""]
+[White ""EliteBarbs13""]
+[Black ""magcarl123""]
+[Result ""1-0""]
+[CurrentPosition ""r3k2r/2p1bppp/2B5/p7/8/2N5/PPP2P1P/2KRR3 b kq -""]
+[Timezone ""UTC""]
+[ECO ""C41""]
+[ECOUrl ""https://www.chess.com/openings/Philidor-Defense-Exchange-Variation-4.Nxd4""]
+[UTCDate ""2020.10.04""]
+[UTCTime ""17:23:34""]
+[WhiteElo ""1223""]
+[BlackElo ""1178""]
+[TimeControl ""600""]
+[Termination ""EliteBarbs13 won by resignation""]
+[StartTime ""17:23:34""]
+[EndDate ""2020.10.04""]
+[EndTime ""17:26:18""]
+[Link ""https://www.chess.com/game/live/5537635675""]
+
+1. e4 {[%clk 0:09:59.9]} 1... e5 {[%clk 0:09:59.9]} 2. Nf3 {[%clk 0:09:58.8]} 2... d6 {[%clk 0:09:59.2]} 3. d4 {[%clk 0:09:56.2]} 3... exd4 {[%clk 0:09:58]} 4. Nxd4 {[%clk 0:09:54.3]} 4... Bg4 {[%clk 0:09:57.5]} 5. Qxg4 {[%clk 0:09:49.1]} 5... Nf6 {[%clk 0:09:55.3]} 6. Qf3 {[%clk 0:09:44.7]} 6... Qe7 {[%clk 0:09:53.3]} 7. Bg5 {[%clk 0:09:38.3]} 7... Nc6 {[%clk 0:09:34.3]} 8. Nxc6 {[%clk 0:09:34.6]} 8... bxc6 {[%clk 0:09:33]} 9. Nc3 {[%clk 0:09:33.6]} 9... d5 {[%clk 0:09:26.7]} 10. O-O-O {[%clk 0:09:30.9]} 10... dxe4 {[%clk 0:09:25.3]} 11. Bxf6 {[%clk 0:09:16.6]} 11... exf3 {[%clk 0:08:41.2]} 12. Bxe7 {[%clk 0:09:13.1]} 12... fxg2 {[%clk 0:08:35.6]} 13. Bxg2 {[%clk 0:09:07.5]} 13... Bxe7 {[%clk 0:08:34.4]} 14. Rhe1 {[%clk 0:09:05]} 14... a5 {[%clk 0:08:24.8]} 15. Bxc6+ {[%clk 0:09:02.1]} 1-0
+",600,1601832378,true,mC0KgvZRlBKBvB6EdE!TEv70cM5QBQXQbsRJecJCMTCvT0vofo90heWGoQ,51dc1279-0666-11eb-8a29-eb3d40010001,,r3k2r/2p1bppp/2B5/p7/8/2N5/PPP2P1P/2KRR3 b kq -,rapid,chess,1223,win,https://api.chess.com/pub/player/elitebarbs13,EliteBarbs13,d35dcd9c-9987-11e7-802c-000000000000,1178,resigned,https://api.chess.com/pub/player/magcarl123,magcarl123,b2a2bb8a-a927-11e7-8056-000000000000,https://www.chess.com/openings/Philidor-Defense-Exchange-Variation-4.Nxd4

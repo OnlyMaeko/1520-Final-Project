@@ -1,0 +1,25 @@
+games/url,games/pgn,games/time_control,games/end_time,games/rated,games/tcn,games/uuid,games/initial_setup,games/fen,games/time_class,games/rules,games/white/rating,games/white/result,games/white/@id,games/white/username,games/white/uuid,games/black/rating,games/black/result,games/black/@id,games/black/username,games/black/uuid,games/eco
+https://www.chess.com/game/live/18560984659,"[Event ""Live Chess""]
+[Site ""Chess.com""]
+[Date ""2021.06.27""]
+[Round ""-""]
+[White ""cliff2277""]
+[Black ""EliteBarbs13""]
+[Result ""1-0""]
+[CurrentPosition ""3r4/ppp1nkpp/3r1qb1/4P3/6P1/1P6/P1PNQ2P/R1B2RK1 b - -""]
+[Timezone ""UTC""]
+[ECO ""C51""]
+[ECOUrl ""https://www.chess.com/openings/Giuoco-Piano-Game-Jerome-Gambit""]
+[UTCDate ""2021.06.27""]
+[UTCTime ""19:23:31""]
+[WhiteElo ""1268""]
+[BlackElo ""1168""]
+[TimeControl ""600""]
+[Termination ""cliff2277 won by resignation""]
+[StartTime ""19:23:31""]
+[EndDate ""2021.06.27""]
+[EndTime ""19:30:50""]
+[Link ""https://www.chess.com/game/live/18560984659""]
+
+1. e4 {[%clk 0:09:58.1]} 1... e5 {[%clk 0:09:56.4]} 2. Nf3 {[%clk 0:09:56.6]} 2... Nc6 {[%clk 0:09:55]} 3. Bc4 {[%clk 0:09:55.3]} 3... Bc5 {[%clk 0:09:53.2]} 4. Bxf7+ {[%clk 0:09:36.2]} 4... Kxf7 {[%clk 0:09:46.9]} 5. Nxe5+ {[%clk 0:09:34.4]} 5... Nxe5 {[%clk 0:09:43.7]} 6. d4 {[%clk 0:09:33.1]} 6... d6 {[%clk 0:09:14.8]} 7. dxc5 {[%clk 0:09:21.8]} 7... Bg4 {[%clk 0:09:00.4]} 8. f3 {[%clk 0:08:59.6]} 8... Bh5 {[%clk 0:08:57.6]} 9. O-O {[%clk 0:08:56.3]} 9... Qf6 {[%clk 0:08:46.7]} 10. Nd2 {[%clk 0:08:34.5]} 10... Rd8 {[%clk 0:08:41.4]} 11. cxd6 {[%clk 0:07:53.5]} 11... Rxd6 {[%clk 0:08:21.3]} 12. Qe2 {[%clk 0:07:51.1]} 12... Ne7 {[%clk 0:07:54.6]} 13. b3 {[%clk 0:07:48.2]} 13... Rhd8 {[%clk 0:07:47.8]} 14. g4 {[%clk 0:07:16.2]} 14... Bg6 {[%clk 0:07:22.3]} 15. f4 {[%clk 0:07:02.3]} 15... N5c6 {[%clk 0:06:07.4]} 16. e5 {[%clk 0:06:59.6]} 16... Nxe5 {[%clk 0:06:01.5]} 17. fxe5 {[%clk 0:06:57.7]} 1-0
+",600,1624822250,true,mC0Kgv5QfA9IA181vKQKlBZRBI6EnvENeg7Tbl47IR7Rdm!0jr?7oENUvDKQCKQKDK,295e6d4c-d77d-11eb-a178-09ff3c010001,,3r4/ppp1nkpp/3r1qb1/4P3/6P1/1P6/P1PNQ2P/R1B2RK1 b - -,rapid,chess,1268,win,https://api.chess.com/pub/player/cliff2277,cliff2277,b617db6e-7eef-11eb-8e83-8bd43fb360cb,1168,resigned,https://api.chess.com/pub/player/elitebarbs13,EliteBarbs13,d35dcd9c-9987-11e7-802c-000000000000,https://www.chess.com/openings/Giuoco-Piano-Game-Jerome-Gambit
